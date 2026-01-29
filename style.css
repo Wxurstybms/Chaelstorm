@@ -633,8 +633,8 @@ body{
   border-radius: 16px;
   z-index: 10;
   background-color: var(--secondary-text);
-  width: 540px;
-  max-width: 90%;
+  width: 530px;
+  max-width: 100%;
 }
 
 .modal.active {
@@ -693,5 +693,6 @@ body{
   opacity: 1;
   pointer-events: all;
 }
+
 
 
