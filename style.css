@@ -633,7 +633,7 @@ body{
   border-radius: 16px;
   z-index: 10;
   background-color: var(--secondary-text);
-  width: 500px;
+  width: 550px;
   max-width: 90%;
 }
 
@@ -693,3 +693,4 @@ body{
   opacity: 1;
   pointer-events: all;
 }
+
